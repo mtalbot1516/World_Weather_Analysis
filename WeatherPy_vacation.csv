@@ -1,0 +1,85 @@
+City_ID,city,country,max_temp,description,lat,lng,Hotel Name
+31,Longyearbyen,SJ,12.2,clear sky,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+34,Qaanaaq,GL,10.96,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+35,Andenes,NO,21.2,overcast clouds,69.3143,16.1194,Hotell Marena
+54,Nikolskoye,RU,16.0,light snow,59.7035,30.7861,Tourist House - Sablino
+59,Saint Anthony,US,19.4,clear sky,45.0205,-93.21799999999999,Holiday Inn Express Roseville-St. Paul
+63,Provideniya,RU,26.6,snow,64.3833,-173.3,
+83,Whitecourt,CA,26.6,overcast clouds,54.1502,-115.6855,Super 8 by Wyndham Whitecourt
+101,Fort Nelson,CA,19.4,broken clouds,58.8053,-122.7002,The Fort Nelson Hotel
+119,Severo-Kurilsk,RU,21.13,broken clouds,50.6789,156.125,Kak Doma
+124,Nanortalik,GL,23.43,clear sky,60.1432,-45.2371,Hotel Kap Farvel
+128,Yumen,CN,20.23,clear sky,40.2833,97.2,
+130,Pangnirtung,CA,24.78,overcast clouds,66.1451,-65.7125,Kilabuk Lodge
+135,Rognan,NO,19.99,light snow,67.0953,15.3878,Rognan Hotell
+138,Sorland,NO,24.51,overcast clouds,67.667,12.6934,Sjybrygga fiskecamp
+145,Nuuk,GL,24.8,clear sky,64.1835,-51.7216,Vandrehuset
+149,Birjand,IR,23.0,clear sky,32.8663,59.2211,Birjand Tourist Hotel
+152,Berlevag,NO,22.3,light snow,70.8578,29.0864,Kvitbrakka
+169,Kurmanayevka,RU,11.14,light snow,52.5093,52.0675,
+170,Vestmannaeyjar,IS,29.71,broken clouds,63.4427,-20.2734,Glamping & Camping
+177,Quesnel,CA,23.0,clear sky,52.9999,-122.5029,Ramada by Wyndham Quesnel
+178,Husavik,IS,26.6,light snow,66.0449,-17.3389,Bjarnabúð
+181,Fort-Shevchenko,KZ,28.44,overcast clouds,44.5086,50.263000000000005,Oasis hotel Bautino
+191,Hofn,IS,28.51,clear sky,64.2539,-15.2082,Hótel Höfn
+192,Neyshabur,IR,26.74,few clouds,36.2133,58.7958,Amiran Hotel
+193,Athabasca,CA,24.8,few clouds,54.7169,-113.2854,Athabasca Lodge Motel
+201,Tasiilaq,GL,12.2,few clouds,65.6145,-37.6368,The Red House
+202,Ornskoldsvik,SE,24.8,light snow,63.2909,18.7153,First Hotel Statt
+208,Upernavik,GL,26.08,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
+209,Moose Factory,CA,10.4,light snow,51.2585,-80.6094,Moosonee Lilypad
+223,Karatau,KZ,23.27,snow,43.1667,70.4667,Gor.bol'nitsa
+250,Qaqortoq,GL,24.8,clear sky,60.7167,-46.0333,Hotel Qaqortoq
+255,Havoysund,NO,14.0,clear sky,70.9963,24.6622,Arctic View Glamping & Restaurant
+272,Qasigiannguit,GL,19.4,few clouds,68.8193,-51.1922,Hotel Discobay
+288,Narsaq,GL,24.8,clear sky,60.9167,-46.05,Hotel Narsaq
+290,Pregradnaya,RU,20.03,clear sky,43.9508,41.1994,"Gora ""Shunina"""
+292,Grindavik,IS,28.4,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+295,Sept-Iles,CA,10.4,overcast clouds,50.2001,-66.3821,Comfort Inn
+304,Olafsvik,IS,28.83,scattered clouds,64.8945,-23.7142,Hotel Olafsvik
+306,Shahr-E Kord,IR,12.2,clear sky,32.3256,50.8644,Shahrekord Tourist Hotel
+323,Kamenka,RU,24.4,snow,51.3223,42.7678,
+332,Preobrazheniye,RU,27.45,few clouds,42.9019,133.9064,Campsite Orlan
+336,Menomonie,US,19.4,clear sky,44.8755,-91.9193,Best Western Plus Menomonie Inn & Suites
+343,Bonavista,CA,30.0,snow,48.6499,-53.1147,Abbott's Bed & Breakfast
+346,Kangaatsiaq,GL,15.48,overcast clouds,68.3065,-53.4641,
+351,La Tuque,CA,12.2,light snow,47.4334,-72.7824,The Gite du Parc
+359,Mackenzie,CA,15.8,overcast clouds,55.2999,-123.1698,Hilton Shop
+368,Zarechnyy,RU,15.01,overcast clouds,53.2036,45.1923,Постоялый Дом
+370,Kronshtadt,RU,16.0,light snow,59.9936,29.7736,Viktoria
+375,Vanderhoof,CA,14.09,overcast clouds,54.0166,-124.0198,Vanderhoof Inn
+384,Joensuu,FI,12.0,snow,62.6012,29.7632,Original Sokos Hotel Kimmel
+422,La Ronge,CA,12.2,overcast clouds,55.1001,-105.2842,Northland Motor Hotel
+427,Minot,US,14.0,overcast clouds,48.2325,-101.2963,Noble Inn
+433,Port-Cartier,CA,10.4,overcast clouds,50.0334,-66.8654,Le Q'Artier
+457,Panjab,AF,14.14,overcast clouds,34.388000000000005,67.0233,
+462,Oksfjord,NO,14.0,overcast clouds,70.2396,22.3479,Bobo
+463,Lavrentiya,RU,24.58,light snow,65.5833,-171.0,
+468,Palmer,US,28.99,clear sky,42.1584,-72.3287,Wedgewood Motel
+473,North Battleford,CA,17.6,light snow,52.7834,-108.2847,Tropical Inn
+478,Falavarjan,IR,21.2,clear sky,32.5553,51.5097,مشاور املاک قائم فلاورجان اله دادیان
+479,Chuguyevka,RU,11.01,scattered clouds,44.1653,133.8633,Gostinitsa Svet V Okne
+500,Balkhash,KZ,27.82,overcast clouds,46.843999999999994,74.9804,Family
+508,Almaznyy,RU,15.8,broken clouds,48.0448,40.045,
+512,Southbridge,US,27.0,clear sky,42.0751,-72.0334,Southbridge Hotel & Conference Center
+519,Grafton,US,28.0,scattered clouds,42.207,-71.6856,The Grafton Inn
+520,Kashi,CN,23.0,few clouds,39.4547,75.9797,帕米尔青年旅舍
+523,Yablonovo,RU,24.8,mist,50.8523,37.3574,
+536,Ilulissat,GL,19.4,few clouds,69.2167,-51.1,Hotel Arctic
+537,Severnyy,RU,24.8,light snow,50.677,36.5532,Full House North Mini-Hotel
+545,Xacmaz,AZ,27.81,few clouds,41.4635,48.806000000000004,SAHİL HOTEL
+586,Willmar,US,10.4,clear sky,45.1219,-95.0433,Lakeview Inn
+597,Vrangel,RU,25.92,clear sky,42.7297,133.0839,"Отель ""БАЛИ"""
+601,Altay,CN,21.94,overcast clouds,47.8667,88.1167,Jinqiao Hotel
+620,Sartell,US,10.4,clear sky,45.6216,-94.2069,AmericInn by Wyndham Sartell
+623,Honningsvag,NO,23.58,overcast clouds,70.9821,25.9704,Nordkapp Vandrerhjem
+638,Nemuro,JP,23.0,few clouds,43.3236,145.575,Hotel Nemuro Kaiyoutei
+651,Pospelikha,RU,14.92,snow,51.95,81.7667,
+657,Vardo,NO,22.8,light snow,70.3705,31.1107,Vardø Hotel AS
+658,Paamiut,GL,24.48,clear sky,61.994,-49.6678,Yeet Hotel
+659,Korla,CN,20.34,overcast clouds,41.7597,86.1469,Gulisitan Hotel
+665,Kapuskasing,CA,10.4,overcast clouds,49.4169,-82.4331,Park Inn Motel
+666,Ozernovskiy,RU,17.2,clear sky,51.5,156.5167,
+668,Halifax,CA,24.8,broken clouds,44.6453,-63.5724,Hotel Halifax
+669,Karata,RU,17.06,clear sky,42.5949,46.3393,Верхнее Инхело ЧIабакъара
+673,Sisimiut,GL,20.62,clear sky,66.9395,-53.6735,Hotel Sisimiut
